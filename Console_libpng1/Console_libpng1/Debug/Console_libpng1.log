@@ -1,0 +1,30 @@
+﻿Compilación iniciada a las 26/09/2016 11:41:43 a. m..
+     1>Proyecto "C:\Users\k43e-msr1-red-r\OneDrive\Documentos\Otoño_2016\Realidad Aumentada\Console_libpng1\Console_libpng1\Console_libpng1.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "Debug\Console_libpng1.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         Todas las salidas están actualizadas.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\k43e-msr1-red-r\OneDrive\Documentos\Otoño_2016\Realidad Aumentada\Clase solo Zlib\lpng1624\lpng1624" /I"C:\Users\k43e-msr1-red-r\OneDrive\Documentos\Otoño_2016\Realidad Aumentada\Clase solo Zlib\lpng1624\lpng1624\build" /I\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Console_libpng1.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Console_libpng1.cpp
+         Console_libpng1.cpp
+     1>c:\users\k43e-msr1-red-r\onedrive\documentos\otoño_2016\realidad aumentada\console_libpng1\console_libpng1\console_libpng1.cpp(79): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : vea la declaración de 'fopen'
+       ManifestResourceCompile:
+         Todas las salidas están actualizadas.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\k43e-msr1-red-r\OneDrive\Documentos\Otoño_2016\Realidad Aumentada\Console_libpng1\Debug\Console_libpng1.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\k43e-msr1-red-r\OneDrive\Documentos\Otoño_2016\Realidad Aumentada\Clase solo Zlib\zlib128\zlib-1.2.8\build\Debug" /LIBPATH:"C:\Users\k43e-msr1-red-r\OneDrive\Documentos\Otoño_2016\Realidad Aumentada\Clase solo Zlib\lpng1624\lpng1624\build\Debug" /LIBPATH:\lpng1624\build\Debug libpng16d.lib pngd.lib zlibd.lib libpng16_staticd.lib libpng16d.lib pngd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Console_libpng1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\k43e-msr1-red-r\OneDrive\Documentos\Otoño_2016\Realidad Aumentada\Console_libpng1\Debug\Console_libpng1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\k43e-msr1-red-r\OneDrive\Documentos\Otoño_2016\Realidad Aumentada\Console_libpng1\Debug\Console_libpng1.lib" /MACHINE:X86 Debug\Console_libpng1.exe.embed.manifest.res
+         Debug\Console_libpng1.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Console_libpng1.exe.embed.manifest" /manifest Debug\Console_libpng1.exe.intermediate.manifest
+         Todas las salidas están actualizadas.
+       LinkEmbedManifest:
+         Todas las salidas están actualizadas.
+         Console_libpng1.vcxproj -> C:\Users\k43e-msr1-red-r\OneDrive\Documentos\Otoño_2016\Realidad Aumentada\Console_libpng1\Debug\Console_libpng1.exe
+       FinalizeBuildStatus:
+         Se eliminará el archivo "Debug\Console_libpng1.unsuccessfulbuild".
+         Aplicando tarea Touch a "Debug\Console_libpng1.lastbuildstate".
+     1>Compilación del proyecto terminada "C:\Users\k43e-msr1-red-r\OneDrive\Documentos\Otoño_2016\Realidad Aumentada\Console_libpng1\Console_libpng1\Console_libpng1.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:02.92
